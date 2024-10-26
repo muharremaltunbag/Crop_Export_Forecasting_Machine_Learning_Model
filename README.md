@@ -80,6 +80,16 @@ The Jupyter Notebook (`notebook.ipynb`) is organized into the following sections
 ## Instructions for Running the Notebook
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Crop_Export_Forecasting_Machine_Learning_Model.git
+   git clone https://github.com/muharremaltunbag/Crop_Export_Forecasting_Machine_Learning_Model.git
    cd Crop_Export_Forecasting_Machine_Learning_Model
+2. Install Dependencies: Ensure you have Python 3.8 or higher. Install necessary packages:
+  pip install -r requirements.txt
+3. Run the Notebook
+   Open MLP_Notebook.ipynb in Jupyter Notebook to go through each step, from data processing to model training and evaluation.
+4. View Predictions:
+5. Access the model’s predictions in predictions/MLP_Predictions_export_value.csv.
+6. Documentation
+Report: In-depth project report covering methodology, results, and analysis, available at docs/Report_Muharrem_Altunbag_MLP_2024.pdf.
+Code: A comprehensive code reference in PDF format is provided in docs/Code_Muharrem_Altunbag_MLP_2024.pdf.
+   
 
