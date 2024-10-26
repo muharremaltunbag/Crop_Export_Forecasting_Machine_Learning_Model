@@ -78,9 +78,10 @@ The Jupyter Notebook (`notebook.ipynb`) is organized into the following sections
 1. **Clone the Repository**:
 
    git clone https://github.com/muharremaltunbag/Crop_Export_Forecasting_Machine_Learning_Model.git
+   
    cd Crop_Export_Forecasting_Machine_Learning_Model
    
-2. Install Dependencies: Ensure you have Python 3.8 or higher. Install necessary packages:
+3. Install Dependencies: Ensure you have Python 3.8 or higher. Install necessary packages:
   pip install -r requirements.txt
 
 4. Run the Notebook
