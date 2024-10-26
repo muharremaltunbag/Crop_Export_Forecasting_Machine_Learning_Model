@@ -1,8 +1,5 @@
 # Crop_Export_Forecasting_Machine_Learning_Model
 A machine learning project using a multilayer perceptron (MLP) to forecast crop export values with FAOSTAT agricultural data. This project applies data science techniques like data preprocessing, feature engineering, and model evaluation with metrics (RMSE, R²), providing insights into the predictive power of MLPs in agricultural forecasting
-# Crop Export Forecasting with Machine Learning Model
-
-This project applies a machine learning approach using a **Multilayer Perceptron (MLP)** model to forecast the future export values of crop products. Leveraging historical agricultural and economic data from FAOSTAT, the model predicts export values three years ahead, aiding in data-driven decision-making for agricultural planning and trade analysis.
 
 ## Project Overview
 The goal of this project is to accurately predict the export values of crop products for a future target year using historical data. The dataset includes multiple indicators relevant to agriculture and economics, such as crop production, emissions, consumer prices, and exchange rates. Using these features, the MLP model provides insight into the factors that may influence export values.
