@@ -36,13 +36,6 @@ The MLP model used in this project is a deep learning neural network structured 
 - **Optimizer**: Adam optimizer with a learning rate of 0.001, chosen for efficient training.
 - **Regularization**: Dropout layers and early stopping are used to prevent overfitting and enhance model generalization.
 
-## Results and Performance
-The model achieved the following performance metrics:
-- **Root Mean Squared Error (RMSE)**: 3.3567 x 10^16
-- **R-squared (R²)**: -0.00015, indicating high deviation from actual values.  
-
-Detailed findings and interpretations are available in `docs/Report_Muharrem_Altunbag_MLP_Coursework_2024-1.pdf`.
-
 ## MLP_Notebook: Jupyter Notebook Walkthrough
 The Jupyter Notebook (`notebook.ipynb`) is organized into the following sections, guiding users through the entire workflow:
 
